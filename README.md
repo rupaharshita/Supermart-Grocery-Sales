@@ -22,7 +22,7 @@ Goal -
 To provide a clear, interactive view of sales and profit trends, top customers, and top-performing products, enabling decision-makers to optimize pricing, discounts, and marketing strategies.
 
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/rupaharshita/Supermart-Grocery-Sales/blob/main/Supermart%20Grocery%20Dashboard.png)
 
 Insights - 
 
