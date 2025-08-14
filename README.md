@@ -22,7 +22,7 @@ Goal -
 To provide a clear, interactive view of sales and profit trends, top customers, and top-performing products, enabling decision-makers to optimize pricing, discounts, and marketing strategies.
 
 
-![Dashboard Preview](<img width="1363" height="764" alt="image" src="https://github.com/user-attachments/assets/54440b77-db9c-4613-a31f-ebf1a8838bea" />)
+![Dashboard Preview]()
 
 Insights - 
 
